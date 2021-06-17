@@ -1118,6 +1118,14 @@
       "webUrl": "https://www.4kyu.cc",
       "webOpen": true,
       "click": true
+    },
+     {
+      "name": "南瓜影视(Web)",
+      "pic": "https://img3.doubanio.com/view/activity_page/raw/public/p3190.jpg",
+      "ads": "",
+      "webUrl": "http://www.nangua5.com",
+      "webOpen": true,
+      "click": true
     }
   ]
 }
